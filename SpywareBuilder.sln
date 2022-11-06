@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpywareBuilder", "SpywareBuilder\SpywareBuilder.csproj", "{45BEEC8E-3B4E-46BA-BB11-BD2C7E587181}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45BEEC8E-3B4E-46BA-BB11-BD2C7E587181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45BEEC8E-3B4E-46BA-BB11-BD2C7E587181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45BEEC8E-3B4E-46BA-BB11-BD2C7E587181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45BEEC8E-3B4E-46BA-BB11-BD2C7E587181}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E887EBD-EA52-4979-8913-CD63E51A35CE}
+	EndGlobalSection
+EndGlobal
